@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "no description",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gexayr/Nodejs.git"
+  },
+  "author": "GEXAYR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gexayr/Nodejs/issues"
+  },
+  "homepage": "https://github.com/Gexayr/Nodejs#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
